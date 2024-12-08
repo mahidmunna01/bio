@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin:px;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: black;
+  font-size: 20px;
+}
+.spann{
+  color: crimson;
+  font-size: 25px;
+}
+p{
+  column-count: 2;
+  text-align: justify;
+  column-rule: 2px solid;
+  column-width: 200px;
+}
+span{
+  color: yellow;
+  font-weight: bold;
+  font-style: italic;
+}
+.parent{
+  background-color: black;
+  color: aliceblue;
+  width: 100%;
+}
+h1{
+  border-bottom: 2px solid;
+  background-color: black;
+  position: sticky;
+  top: 0;
+  right: 0;
+}
